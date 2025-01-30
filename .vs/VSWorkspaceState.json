@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\customer-api",
+    "\\customer-api\\config",
+    "\\customer-api\\routes",
+    "\\lib",
+    "\\windows"
+  ],
+  "SelectedNode": "\\customer-api\\routes\\customer.js",
+  "PreviewInSolutionExplorer": false
+}
